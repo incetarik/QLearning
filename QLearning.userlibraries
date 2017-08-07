@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="miglayout-4.0-swing">
+    <archive path="/home/incetarik/Downloads/miglayout-4.0-swing.jar" />
+  </library>
+  <library name="kotlin-runtime">
+    <archive path="/home/incetarik/.IntelliJIdea2016.3/config/plugins/Kotlin/lib/kotlin-runtime.jar" />
+    <archive path="/home/incetarik/.IntelliJIdea2016.3/config/plugins/Kotlin/lib/kotlin-reflect.jar" />
+  </library>
+</eclipse-userlibraries>
+
